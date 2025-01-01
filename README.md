@@ -1,4 +1,4 @@
-En este repositorio se encuentran los proyectos propuestos por freeCodeCamp en la sección de Scientific Computing with Python
+En este repositorio se encuentran los proyectos propuestos por freeCodeCamp bajo la sección de "Scientific Computing with Python"
 
 ## Proyectos:
 
@@ -12,4 +12,4 @@ En este repositorio se encuentran los proyectos propuestos por freeCodeCamp en l
 
 5. Learn the Bisection Method by Finding the Square Root of a Number, Not started
 
-6. Build an Arithmetic Formatter ProjectCertification Project, Not completed
+6. Build an Arithmetic Formatter ProjectCertification Project, Not started
