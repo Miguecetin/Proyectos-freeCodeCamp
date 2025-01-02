@@ -4,7 +4,7 @@ En este repositorio se encuentran los proyectos propuestos por freeCodeCamp bajo
 
 1. Learn String Manipulation by Building a Cipher, Completed
 
-2. Learn How to Work with Numbers and Strings by Implementing the Luhn Algorithm, Not started
+2. Learn How to Work with Numbers and Strings by Implementing the Luhn Algorithm, Completed
 
 3. Learn Lambda Functions by Building an Expense Tracker, Not started
 
